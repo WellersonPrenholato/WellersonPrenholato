@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
+- :blue_heart: Programming
 - :video_game: I like to play video games
 
 ## Social Networks :mailbox_with_no_mail:
