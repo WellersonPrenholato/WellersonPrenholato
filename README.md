@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
+- 👨‍🎓 Studying Computer Science
 - :blue_heart: Programming
 - :video_game: I like to play video games
 
