@@ -1,4 +1,4 @@
-# :man_technologist: Hi, I'm Wellerson
+# Hi, I'm Wellerson :man_technologist:
 
 <!--
 **WellersonPrenholato/WellersonPrenholato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
