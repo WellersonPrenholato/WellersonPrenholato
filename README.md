@@ -1,4 +1,4 @@
-### Hi there 👋
+# :man_technologist: Hi, I'm Wellerson
 
 <!--
 **WellersonPrenholato/WellersonPrenholato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me
+- :video_game: I like to play video games
+
+## Social Networks :mailbox_with_no_mail:
+<div align="center">
+
+<a href="https://www.linkedin.com/in/wellersonprenholato/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/wellersonprenholato/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/wellerson.well1/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+
+</div>
+
