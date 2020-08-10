@@ -1,15 +1,17 @@
 # Hi, I'm Wellerson :man_technologist:
 
+<img align="right" alt="GIF" src="https://github.com/WellersonPrenholato/WellersonPrenholato/blob/master/gifs/Developer.gif" />
+
 ## About me
 - 👨‍🎓 Studying Computer Science.
 - 👨🏻‍💻  Currently participating on some interesting projects based on Web Development and Data Science.
 - :blue_heart: Competitive Programming.
 - :video_game: I like playing video games.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/WellersonPrenholato/WellersonPrenholato/master/gifs/Developer.svg" />
+
 
 <details>
-  <summary> <b> Languages and Tools: </b> <i>(click to expand!)</i> </summary>
+  <summary> <h3><b> Languages and Tools: </b></h3> <i>(click to expand!)</i> </summary>
   <br />
 
   <!-- ### Languages and Tools: -->
