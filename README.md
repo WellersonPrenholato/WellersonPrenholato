@@ -48,32 +48,32 @@
   <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/WellersonPrenholato/WellersonPrenholato/master/icons/git.svg"/>
   </span>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <!-- <span title="MySQL">
-  <img align="left" alt="MySQL" width="32px" src ="https://raw.githubusercontent.com/WellersonPrenholato/WellersonPrenholato/master/icons/mysql.svg"/> 
-  </span> -->
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
   <br />
 </details>
 
-<details>
-  <summary> <b> 👨🏻‍💻 Open Source Work Stats: </b> <i>(click to expand!)</i> </summary>
-  <p width="80%">
-    <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellersonPrenholato&layout=compact&hide=html&theme=dark" alt="WellersonPrenholato" />
-    <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api?username=WellersonPrenholato&show_icons=true&theme=dark&count_private=true&&hide=contribs,issues" alt="WellersonPrenholato" />
-  </p>
-</details>
+<div align="center">
+  <details>
+    <summary> <b> 👨🏻‍💻 Open Source Work Stats: </b> <i>(click to expand!)</i> </summary>
+    <br />
+    <p width="80%">
+      <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellersonPrenholato&layout=compact&hide=html,jupyter%20notebook&theme=dark" alt="WellersonPrenholato" />
+      <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api?username=WellersonPrenholato&show_icons=true&theme=dark&count_private=true&hide=contribs,issues&include_all_commits=true" alt="WellersonPrenholato" />
+    </p>
+  </details>
+</div>
 
 <br />
 
-## Social Networks :mailbox_with_no_mail:
-
-<!---<a href="https://www.linkedin.com/in/wellersonprenholato/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/wellersonprenholato/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>-->
-
+<p align="left">
+<br />
+  <h2>:mailbox_with_no_mail: Social Networks</h2>
+</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellersonprenholato/)](https://www.linkedin.com/in/wellersonprenholato/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wellerson.prenholato@gmail.com)](mailto:wellerson.prenholato@gmail.com)
 
 <p align="center"> 
-  Visitor count<br>
+  <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/WellersonPrenholato/count.svg" />
 </p>
