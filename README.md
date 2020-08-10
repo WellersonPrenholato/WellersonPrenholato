@@ -7,7 +7,7 @@
 - 👨🏻‍💻  Currently participating on some interesting projects based on Web Development and Data Science.
 - :blue_heart: Competitive Programming.
 - :video_game: I like playing video games.
-- 🚀 Currently studying full stack development at @Rocketseat GoStack.
+- 📚 Currently studying full stack development at [🚀Rocketseat GoStack](https://rocketseat.com.br/).
 
  <p align="center"> 
   <h2>:mailbox_with_no_mail: Social Networks</h2>
@@ -69,7 +69,7 @@
   <summary> <b> 👨🏻‍💻 Open Source Work Stats: </b> <i>(click to expand!)</i> </summary>
   <br />
   <p width="80%">
-    <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellersonPrenholato&layout=compact&hide=html,jupyter%20notebook&theme=dark" alt="WellersonPrenholato" />
-    <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api?username=WellersonPrenholato&show_icons=true&theme=dark&count_private=true&hide=contribs,issues&include_all_commits=true" alt="WellersonPrenholato" />
+    <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellersonPrenholato&layout=compact&hide=html,jupyter%20notebook&theme=dark" alt="WellersonPrenholato" />
+    <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=WellersonPrenholato&show_icons=true&theme=dark&count_private=true&hide=contribs,issues&include_all_commits=true" alt="WellersonPrenholato" />
   </p>
 </details>
