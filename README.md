@@ -9,6 +9,19 @@
 - :video_game: I like playing video games.
 - 🚀 Currently studying full stack development at @Rocketseat GoStack.
 
+ <p align="center"> 
+  <h2>:mailbox_with_no_mail: Social Networks</h2>
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellersonprenholato/)](https://www.linkedin.com/in/wellersonprenholato/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wellerson.prenholato@gmail.com)](mailto:wellerson.prenholato@gmail.com)
+  
+</p>
+ 
+ <p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/WellersonPrenholato/count.svg" />
+</p>
+
 <details align="center">
   <summary> <b>:pushpin: Languages and Tools: </b> <i>(click to expand!)</i> </summary>
   <br />
@@ -47,8 +60,8 @@
   <span title="Git">
   <img alt="Git" width="35px" src="https://raw.githubusercontent.com/WellersonPrenholato/WellersonPrenholato/master/icons/git.svg"/>
   </span>
-  <img  src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+  <img  src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45px" height="45px"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="45px" height="45px"/> 
   <br />
 </details>
 
@@ -60,16 +73,3 @@
     <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api?username=WellersonPrenholato&show_icons=true&theme=dark&count_private=true&hide=contribs,issues&include_all_commits=true" alt="WellersonPrenholato" />
   </p>
 </details>
-
-<br />
-<div margin-top="50px">
-  <h2>:mailbox_with_no_mail: Social Networks</h2>
-
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellersonprenholato/)](https://www.linkedin.com/in/wellersonprenholato/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wellerson.prenholato@gmail.com)](mailto:wellerson.prenholato@gmail.com)
- </div>
- 
-<p align="center"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/WellersonPrenholato/count.svg" />
-</p>
