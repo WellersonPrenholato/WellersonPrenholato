@@ -11,7 +11,7 @@
 
 
 <details>
-  <summary> <h3><b> Languages and Tools: </b></h3> <i>(click to expand!)</i> </summary>
+  <summary> <b> Languages and Tools: </b> <i>(click to expand!)</i> </summary>
   <br />
 
   <!-- ### Languages and Tools: -->
