@@ -54,16 +54,12 @@
   <br />
 </details>
 
-<br />
-
 <details>
   <summary> <b> 👨🏻‍💻 Open Source Work Stats: </b> <i>(click to expand!)</i> </summary>
-  <h3 align="center">Stats</h3>
-
-<p width="80>
-  <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellersonPrenholato&layout=compact&hide=html" alt="WellersonPrenholato" />
-  <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api?username=WellersonPrenholato&show_icons=true&theme=dark" alt="WellersonPrenholato" />
-</p>
+  <p width="80%">
+    <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellersonPrenholato&layout=compact&hide=html&theme=dark" alt="WellersonPrenholato" />
+    <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api?username=WellersonPrenholato&show_icons=true&theme=dark&count_private=true&&hide=contribs,issues" alt="WellersonPrenholato" />
+  </p>
 </details>
 
 <br />
