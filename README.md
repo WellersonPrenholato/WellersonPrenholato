@@ -4,10 +4,47 @@
 - 👨‍🎓 Studying Computer Science.
 - 👨🏻‍💻  Currently participating on some interesting projects based on Web Development and Data Science.
 - :blue_heart: Competitive Programming.
-    - C
-    - C++
-    - Python
 - :video_game: I like playing video games.
+
+### Languages and Tools:
+<span title="C">
+<img align="left" alt="C" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/c.svg"/>
+</span>
+<span title="C plus plus">
+<img align="left" alt="C plus plus" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/cplusplus.svg"/>
+</span>
+<span title="Terminal">
+<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/terminal.svg"/>
+</span>
+<span title="NodeJS">
+<img align="left" alt="NodeJS" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/nodejs.svg"/>
+</span>
+<span title="React">
+<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/react.svg"/>
+</span>
+<span title="Typescript">
+<img align="left" alt="Typescript" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/typescript.svg"/>
+</span>
+<span title="Javascript">
+<img align="left" alt="Javascript" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/javascript.svg"/>
+</span>
+<span title="HTML">
+<img align="left" alt="HTML" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/html.svg"/>
+</span>
+<span title="CSS">
+<img align="left" alt="CSS" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/css.svg"/>
+</span>
+<span title="Python">
+<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/python.svg"/>
+</span>
+<span title="Java">
+<img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/java.svg"/>
+</span>
+<span title="Git">
+<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/git.svg"/>
+</span>
+
+<br />
 
 ## Social Networks :mailbox_with_no_mail:
 
