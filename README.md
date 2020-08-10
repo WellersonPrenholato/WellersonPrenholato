@@ -1,9 +1,9 @@
 # Hi, I'm Wellerson :man_technologist:
 
 ## About me
-- 👨‍🎓 Studying Computer Science
-- :computer: Currently participating on some interesting projects based on Web Development and Data Science.
-- :blue_heart: Competitive Programming
+- 👨‍🎓 Studying Computer Science.
+- 👨🏻‍💻  Currently participating on some interesting projects based on Web Development and Data Science.
+- :blue_heart: Competitive Programming.
     - C
     - C++
     - Python
