@@ -8,10 +8,8 @@
 - :blue_heart: Competitive Programming.
 - :video_game: I like playing video games.
 
-
-
 <details>
-  <summary> <b> Languages and Tools: </b> <i>(click to expand!)</i> </summary>
+  <summary> <b>:pushpin: Languages and Tools: </b> <i>(click to expand!)</i> </summary>
   <br />
 
   <!-- ### Languages and Tools: -->
@@ -55,6 +53,9 @@
 
 <br />
 
+<details>
+  <summary> <b> 👨🏻‍💻 Open Source Work Stats: </b> <i>(click to expand!)</i> </summary>
+</details>
 
 ## Social Networks :mailbox_with_no_mail:
 
