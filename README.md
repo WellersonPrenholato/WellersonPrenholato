@@ -7,6 +7,7 @@
 - 👨🏻‍💻  Currently participating on some interesting projects based on Web Development and Data Science.
 - :blue_heart: Competitive Programming.
 - :video_game: I like playing video games.
+- 🚀 Currently studying full stack development at @Rocketseat GoStack.
 
 <details>
   <summary> <b>:pushpin: Languages and Tools: </b> <i>(click to expand!)</i> </summary>
@@ -46,15 +47,23 @@
   <span title="Git">
   <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/WellersonPrenholato/WellersonPrenholato/master/icons/git.svg"/>
   </span>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <!-- <span title="MySQL">
   <img align="left" alt="MySQL" width="32px" src ="https://raw.githubusercontent.com/WellersonPrenholato/WellersonPrenholato/master/icons/mysql.svg"/> 
   </span> -->
 </details>
 
 <br />
+<br />
 
 <details>
   <summary> <b> 👨🏻‍💻 Open Source Work Stats: </b> <i>(click to expand!)</i> </summary>
+  <h3 align="center">Stats</h3>
+
+<p width="100%">
+  <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellerson&layout=compact&hide=html" alt="Wellerson" />
+  <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api?username=Wellerson&show_icons=true" alt="Wellerson" />
+</p>
 </details>
 
 ## Social Networks :mailbox_with_no_mail:
