@@ -7,7 +7,7 @@
     - C
     - C++
     - Python
-- :video_game: I like playing video games
+- :video_game: I like playing video games.
 
 ## Social Networks :mailbox_with_no_mail:
 
