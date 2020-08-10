@@ -51,20 +51,22 @@
   <!-- <span title="MySQL">
   <img align="left" alt="MySQL" width="32px" src ="https://raw.githubusercontent.com/WellersonPrenholato/WellersonPrenholato/master/icons/mysql.svg"/> 
   </span> -->
+  <br />
 </details>
 
-<br />
 <br />
 
 <details>
   <summary> <b> 👨🏻‍💻 Open Source Work Stats: </b> <i>(click to expand!)</i> </summary>
   <h3 align="center">Stats</h3>
 
-<p width="100%">
-  <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellerson&layout=compact&hide=html" alt="Wellerson" />
-  <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api?username=Wellerson&show_icons=true" alt="Wellerson" />
+<p width="80>
+  <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellersonPrenholato&layout=compact&hide=html" alt="WellersonPrenholato" />
+  <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api?username=WellersonPrenholato&show_icons=true&theme=dark" alt="WellersonPrenholato" />
 </p>
 </details>
+
+<br />
 
 ## Social Networks :mailbox_with_no_mail:
 
