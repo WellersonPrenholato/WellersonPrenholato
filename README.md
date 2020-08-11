@@ -22,8 +22,8 @@
   <img src="https://profile-counter.glitch.me/WellersonPrenholato/count.svg" />
 </p>
 
-<details align="center">
-  <summary> <b>:pushpin: Languages and Tools: </b> <i>(click to expand!)</i> </summary>
+  <p align="center">
+  <b>:pushpin: Languages and Tools: </b> <i>(click to expand!)</i>
   <br />
 
   <!-- ### Languages and Tools: -->
@@ -60,10 +60,14 @@
   <span title="Git">
   <img alt="Git" width="35px" src="https://raw.githubusercontent.com/WellersonPrenholato/WellersonPrenholato/master/icons/git.svg"/>
   </span>
-  <img  src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45px" height="45px"/> 
+  <span title="MySQL">
+  <img  src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45px" height="45px"/>
+  </span>
+  <span title="Java">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="45px" height="45px"/> 
+  </span>
   <br />
-</details>
+</div>
 
 <details align="center">
   <summary> <b> 👨🏻‍💻 Open Source Work Stats: </b> <i>(click to expand!)</i> </summary>
