@@ -77,9 +77,9 @@
 <details align="center">
   <summary> <b> 👨🏻‍💻 Open Source Work Stats: </b> <i>(click to expand!)</i> </summary>
   <br />
-  <p width="80%">
+<!--   <p width="80%"> -->
 <!--     <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellersonPrenholato&layout=compact&hide=html,jupyter%20notebook&theme=dark" alt="WellersonPrenholato" /> -->
-    <img width="50%" align="left" src="https://github.com/WellersonPrenholato/graphics-readme/blob/master/linguages-statistics.png" alt="WellersonPrenholato" />
-    <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=WellersonPrenholato&show_icons=true&theme=dark&count_private=true&hide=contribs,issues&include_all_commits=true" alt="WellersonPrenholato" />
-  </p>
+    <img width="50%" align="center" src="https://github.com/WellersonPrenholato/graphics-readme/blob/master/linguages-statistics.png" alt="WellersonPrenholato" />
+    <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=WellersonPrenholato&show_icons=true&theme=dark&count_private=true&hide=contribs,issues&include_all_commits=true" alt="WellersonPrenholato" />
+  <!--</p>-->
 </details>
