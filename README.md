@@ -28,7 +28,7 @@
 </p>
 
   <p align="center">
-  <b>:pushpin: Languages and Tools: </b> <i>(click to expand!)</i>
+  <b>:pushpin: Languages and Tools: </b>
   <br />
 
   <!-- ### Languages and Tools: -->
