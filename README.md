@@ -14,7 +14,7 @@
   <h2>:mailbox_with_no_mail: Social Networks</h2>
   
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wellersonprenholato/)](https://www.linkedin.com/in/wellersonprenholato/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wellerson.prenholato@gmail.com)](mailto:wellerson.prenholato@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:wellerson.prenholato@gmail.com)](mailto:wellerson.prenholato@gmail.com)
   
   <a aria-label="Completed" href="https://app.rocketseat.com.br/me/wellerson-prenholato">
     <img src="https://img.shields.io/badge/Profile%20RocketSeat-GoStack%2013.0-8257E5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
@@ -66,7 +66,7 @@
   <img alt="Git" width="35px" src="https://raw.githubusercontent.com/WellersonPrenholato/WellersonPrenholato/master/icons/git.svg"/>
   </span>
   <span title="MySQL">
-  <img  src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45px" height="45px"/>
+  <img  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="45px" height="45px"/>
   </span>
   <span title="Java">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="45px" height="45px"/> 
