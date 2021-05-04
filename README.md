@@ -66,10 +66,13 @@
   <img alt="Git" width="35px" src="https://raw.githubusercontent.com/WellersonPrenholato/WellersonPrenholato/master/icons/git.svg"/>
   </span>
   <span title="MySQL">
-  <img  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  <img alt="MySQL" width="35px" src="https://raw.githubusercontent.com/WellersonPrenholato/WellersonPrenholato/master/icons/mysql-5.svg" />
   </span>
   <span title="Java">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" /> 
+  <img alt="Java" width="35px" src="https://raw.githubusercontent.com/WellersonPrenholato/WellersonPrenholato/master/icons/java.svg" />
+  </span>
+  <span title="MarkDown">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" /> 
   </span>
   <br />
 </div>
