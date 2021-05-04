@@ -66,10 +66,10 @@
   <img alt="Git" width="35px" src="https://raw.githubusercontent.com/WellersonPrenholato/WellersonPrenholato/master/icons/git.svg"/>
   </span>
   <span title="MySQL">
-  <img  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="45px" height="45px"/>
+  <img  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
   </span>
   <span title="Java">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="45px" height="45px"/> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" /> 
   </span>
   <br />
 </div>
