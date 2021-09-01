@@ -4,11 +4,13 @@
 
 ## About me
 - 👨‍🎓 Studying Computer Science.
-- 👨🏻‍💻  Currently participating on some interesting projects based on Web Development and Data Science.
+- 👨‍💻 Currently participating in some projects related to DevOps and Data Science.
+- 👨‍💻 I'm currently doing an internship at [💚PagSeguro PagBank](https://pagseguro.uol.com.br/).
+- 🚀 Site Reliability Engineering (SRE).
 - :blue_heart: Competitive Programming.
 - 🧩 My profile at [🎯Hacker Rank](https://www.hackerrank.com/Wellerson).
 - :video_game: I like playing video games.
-- 📚 Currently studying full stack development at [🚀Rocketseat GoStack](https://rocketseat.com.br/).
+- 📚 Full stack development student at [🚀Rocketseat GoStack](https://rocketseat.com.br/).
 
  <p align="center"> 
   <h2>:mailbox_with_no_mail: Social Networks</h2>
