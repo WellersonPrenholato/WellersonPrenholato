@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/WellersonPrenholato/WellersonPrenholato/blob/master/gifs/Developer.gif" />
 
 ## About me
-- 👨‍🎓 Studying Computer Science.
+- 👨‍🎓 Graduated in Computer Science.
 - 👨‍💻 Currently participating in some projects related to DevOps and Data Science.
 - 👨‍💻 I'm currently System Engineer Jr. at [💚PagSeguro PagBank](https://pagseguro.uol.com.br/).
 - 🚀 Site Reliability Engineering (SRE).
