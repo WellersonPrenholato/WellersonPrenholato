@@ -7,7 +7,7 @@
 - 👨‍💻 Currently participating in some projects related to DevOps and Data Science.
 - 👨‍💻 I'm currently System Engineer Jr. at [💚PagSeguro PagBank](https://pagseguro.uol.com.br/).
 - 🚀 Site Reliability Engineering (SRE).
-- :blue_heart: Competitive Programming.
+- :blue_heart: I like solving problems related to programming competitions.
 - 🧩 My profile at [🎯Hacker Rank](https://www.hackerrank.com/Wellerson).
 - :video_game: I like playing video games.
 
@@ -26,7 +26,7 @@
   
 </p>
  
- <p align="center"> 
+ <p align="center">
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/WellersonPrenholato/count.svg" />
 </p>
