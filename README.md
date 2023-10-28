@@ -32,6 +32,18 @@
 </p>
 
   <p align="center">
+  <span title="DevOps">
+  <img alt="DevOps" height="33px" width="100px" src="https://img.shields.io/badge/devops-%230081ff.svg?style=for-the-badge&logo=devops&logoColor=white"/>
+  </span>
+  <span title="SRE">
+  <img alt="SRE" height="33px" width="80px" src="https://img.shields.io/badge/SRE-%2314b881.svg?style=for-the-badge&logo=sre&logoColor=white"/>
+  </span>
+  <span title="CloudComputing">
+  <img alt="CloudComputing" height="33px" width="130px" src="https://img.shields.io/badge/Cloud%20Computing-%23ea7343?style=STYLE&logo=amazon-aws"/>
+  </span>
+
+
+  <br />
   <b>:pushpin: Languages and Tools: </b>
   <br />
 
@@ -49,7 +61,6 @@
   <img alt="C plus plus" width="35px" src="https://raw.githubusercontent.com/WellersonPrenholato/WellersonPrenholato/master/icons/cplusplus.svg"/>
   </span>
 
-  
   <br />
   
   <span title="Pandas">
@@ -83,14 +94,26 @@
   <img alt="terraform" height="33px" width="100px" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
   </span>
   
+   <!--Exemplo para badges-->
+   <!--https://img.shields.io/badge/{ESPAÇO_1}-{ESPAÇO_2}-{COR}?style=STYLE&logo={LOGO}&logoColor={LOGO_COLOR}-->
   <br />
-  
+
   <span title="AWS">
   <img alt="AWS" width="90px" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   </span>
   
   <br />
-  
+
+  <span title="Splunk">
+  <img alt="Splunk" height="33px" width="100px" src="https://img.shields.io/badge/splunk-%23FF4500.svg?style=for-the-badge&logo=splunk&logoColor=white"/>
+  </span>
+
+  <span title="NewRelic">
+  <img alt="NewRelic" height="33px" width="100px" src="https://img.shields.io/badge/NewRelic-%2344A833.svg?style=for-the-badge&logo=new-relic&logoColor=white"/>
+  </span>
+
+  <br />
+
   <span title="github">
   <img alt="github" height="33px" width="100px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </span>
@@ -135,10 +158,11 @@
   <span title="HackerRank">
   <img height="30px" alt="HackerRank" width="120px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> 
   </span>
-  
-  
 
-  
+  <div style="display: inline-block;" align="center">
+    <img width="50%" style="float: left; vertical-align: top;" src="https://github.com/WellersonPrenholato/graphics-readme/blob/master/linguages-statistics.png" alt="WellersonPrenholato" />
+  </div>
+
   <!--<span title="Python"> -->
   <!--<img alt="Python" width="35px" src="https://raw.githubusercontent.com/WellersonPrenholato/WellersonPrenholato/master/icons/python.svg"/> -->
   <!--</span> -->
@@ -155,9 +179,6 @@
 <details align="center">
   <summary> <b> 👨🏻‍💻 Open Source Work Stats: </b> <i>(click to expand!)</i> </summary>
   <br />
-  <div style="display: inline-block;">
-    <img width="50%" style="float: left; vertical-align: top;" src="https://github.com/WellersonPrenholato/graphics-readme/blob/master/linguages-statistics.png" alt="WellersonPrenholato" />
-  </div>
   <div style="display: inline-block;">
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=wellersonprenholato&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="WellersonPrenholato" />
 <!--     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=WellersonPrenholato&show_icons=true&theme=dark&count_private=true&hide=contribs,issues&include_all_commits=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="WellersonPrenholato" /> -->
