@@ -155,9 +155,15 @@
 <details align="center">
   <summary> <b> 👨🏻‍💻 Open Source Work Stats: </b> <i>(click to expand!)</i> </summary>
   <br />
-<!--   <p width="80%"> -->
-<!--     <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellersonPrenholato&layout=compact&hide=html,jupyter%20notebook&theme=dark" alt="WellersonPrenholato" /> -->
-    <img width="50%" align="center" src="https://github.com/WellersonPrenholato/graphics-readme/blob/master/linguages-statistics.png" alt="WellersonPrenholato" />
-    <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=WellersonPrenholato&show_icons=true&theme=dark&count_private=true&hide=contribs,issues&include_all_commits=true" alt="WellersonPrenholato" />
-  <!--</p>-->
+  <div style="display: inline-block;">
+    <img width="50%" style="float: left; vertical-align: top;" src="https://github.com/WellersonPrenholato/graphics-readme/blob/master/linguages-statistics.png" alt="WellersonPrenholato" />
+  </div>
+  <div style="display: inline-block;">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=wellersonprenholato&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="WellersonPrenholato" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=WellersonPrenholato&show_icons=true&theme=dark&count_private=true&hide=contribs,issues&include_all_commits=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="WellersonPrenholato" />
+
+  </div>
 </details>
+
+
+
