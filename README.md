@@ -1,11 +1,15 @@
-# Hi, I'm Wellerson :man_technologist:
+<!-- # Hi, I'm Wellerson :man_technologist: -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Hi👋;I'm+Wellerson!🧑‍💻;Welcome+to+my+GitHub.📚;:%29)](https://git.io/typing-svg)
 
 <img align="right" alt="GIF" src="https://github.com/WellersonPrenholato/WellersonPrenholato/blob/master/gifs/Developer.gif" />
 
 ## About me
 - 👨‍🎓 Graduated in Computer Science.
 - 👨‍💻 Currently participating in some projects related to DevOps and Data Science.
-- 👨‍💻 I'm currently System Engineer Jr. at [💚PagSeguro PagBank](https://pagseguro.uol.com.br/).
+- 👨‍💻 I'm currently System Engineer Pl. at [💚PagSeguro PagBank](https://pagseguro.uol.com.br/).
 - 🚀 Site Reliability Engineering (SRE).
 - :blue_heart: I like solving problems related to programming competitions.
 - 🧩 My profile at [🎯Hacker Rank](https://www.hackerrank.com/Wellerson).
